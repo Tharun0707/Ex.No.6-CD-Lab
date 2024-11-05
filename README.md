@@ -64,9 +64,11 @@ int main() {
 
 # OUTPUT
 k.txt File
+
 ![image](https://github.com/user-attachments/assets/56e8c2f8-9162-48db-87fe-b230f8f91774)
 
 Program Output
+
 ![image](https://github.com/user-attachments/assets/5eb53675-90df-450f-8a4a-38266ea744ab)
 
 # Result
